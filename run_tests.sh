@@ -1,0 +1,3 @@
+#!/bin/sh
+export AWS_ACCESS_KEY=HIWLFGNSDY6WJFGNSILK
+export AWS_SECRET_ID=AGLfbI5Yk14j/RKaWEseRwshyVJ8oKzwi/zPw8Wy
